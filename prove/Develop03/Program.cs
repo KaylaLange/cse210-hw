@@ -1,5 +1,5 @@
 // I added the the ability for the user to select the verse they want to memorize. I also looked up how to center the 
-// scripture horizontally in the console and implemented that for better readability for the user.
+// scripture vertically in the console and implemented that for better readability for the user.
 
 using System;
 using System.Collections.Generic;

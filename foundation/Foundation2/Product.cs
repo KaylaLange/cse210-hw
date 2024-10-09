@@ -23,9 +23,7 @@ public class Product
 
     public string DisplayAll()
     {
-        // double subtotal = ComputeTotalCost();
         return $"Product: {_productName} | Id: {_productId} | Price: {_price:F2} | Quantity: {_quantity}" + "\n";
-        // return $"Product: {_productName} Id: {_productId} Price: ${_price:F2} Quantity: {_quantity} Subtotal: ${subtotal:F2}" + "\n";
     }
 
 }
